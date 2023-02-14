@@ -1,0 +1,15 @@
+D:\Repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.exe
+D:\Repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.deps.json
+D:\Repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.runtimeconfig.json
+D:\Repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.dll
+D:\Repos\Adapter\Adapter\bin\Debug\net7.0\Adapter.pdb
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.csproj.AssemblyReference.cache
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfoInputs.cache
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.AssemblyInfo.cs
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.dll
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\refint\Adapter.dll
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.pdb
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\Adapter.genruntimeconfig.cache
+D:\Repos\Adapter\Adapter\obj\Debug\net7.0\ref\Adapter.dll
